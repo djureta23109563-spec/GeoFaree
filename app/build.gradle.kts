@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.geofare"
-        minSdk = 24
+        minSdk = 25
         targetSdk = 37
         versionCode = 1
         versionName = "1.0"
