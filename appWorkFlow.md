@@ -1,5 +1,4 @@
-# GEOFARE — REVISED PROJECT WORKFLOW AND PROGRAMMER INSTRUCTIONS
-
+# GEOFARE —  PROJECT WORKFLOW
 ## 1. PROJECT OVERVIEW
 
 Develop GeoFare, a mobile-based passenger application and web-based driver verification system for GPS-based tricycle fare computation, route monitoring, OCR-based vehicle plate recognition, and trip reporting.
